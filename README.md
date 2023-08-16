@@ -15,6 +15,5 @@ Data Source: https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,
 * Classification report
 * confusion matrix
 * ROC curve
-* Precision-Recall curve
 ## Libraries:
 scikit-learn,pandas,seaborn,matplotlib, NumPy
